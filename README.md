@@ -1,6 +1,6 @@
 # Kud 
 Simple Version Control System to records changes to set of files.
-This program can only work on Linux.
+This program can only work on bash shell.
 
 ## Requirements
 - rsync
