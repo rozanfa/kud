@@ -1,5 +1,5 @@
 # Kud 
-Simple Version Control System for records changes to set of files.
+Simple Version Control System to records changes to set of files.
 This program can only work on Linux.
 
 ## Requirements
